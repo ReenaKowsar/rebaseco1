@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 devops lab
 rebase conflict
+=======
+hii
+devops
+>>>>>>> 1607e94 (file added)
